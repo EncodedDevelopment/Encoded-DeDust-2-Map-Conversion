@@ -131,3 +131,5 @@ Why C.S 1.6 ?
 Its an extremely optimized model and will garantee zero performance impact
 
 The map is best desgined for small teams  1v1 to 4v4 but can go up to full lobby in Nass Paintball
+
+Note : I know there already exists such a map on GTV mods, i ensure you this is my map and the two will differ a lot on various things.
