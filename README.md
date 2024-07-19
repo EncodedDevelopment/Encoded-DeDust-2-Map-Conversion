@@ -2,11 +2,11 @@
 DeDust map from CS 1.6 converted to fivem for Nass_Paintball 
 
 
-added in the resource file a statement included in valve giving full permission on their map being ripped and used in any game if modifications were made.
 
 The map uses custom materials and custom colissions to work with fivem and formated to a rage engine stream format.
 
 Installation:
+Copt the map resouce into your resources directory and ensure it.
 
 Head to nass_paintball/html/images
 copy the dust.png to that location
@@ -123,6 +123,8 @@ head to nass_paintball/config.lua and add the following code
             },
         }
     },
+
+Please note that a full server restart is required
 
 Why C.S 1.6 ?
 
